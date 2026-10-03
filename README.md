@@ -2,7 +2,7 @@
 
 ## Small apps. Bright ideas.
 
-Lumviro is an independent developer brand creating Android apps and working toward future games. The focus is on expressive visuals, useful everyday tools, and simple controls.
+Lumviro is an independent developer brand building mobile apps and working toward future games for Android and iOS. The focus is on expressive visuals, useful everyday tools, and simple controls.
 
 ### Meet Bannerivo
 
